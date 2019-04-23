@@ -1,0 +1,9 @@
+.box {
+    border: 1px solid black;
+    height: 100px;
+    background: #eee;
+}
+
+.box-new {
+    border: 1px solid green;
+}
